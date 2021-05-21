@@ -1,5 +1,5 @@
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif) 
-### Hi there 👋
+
 
 <!--
 **Maza0w1/Maza0w1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
