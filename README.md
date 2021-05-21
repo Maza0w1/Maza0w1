@@ -1,5 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
-
+![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif) / ![](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 ### Hi there 👋
 
 <!--
