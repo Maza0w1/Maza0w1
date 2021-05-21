@@ -1,4 +1,4 @@
-![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif) / ![](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
+![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif) 
 ### Hi there 👋
 
 <!--
