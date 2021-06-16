@@ -1,12 +1,12 @@
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Almira, here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 
-Basically, I'm a machine that converts several cups of tea and coffee into lines of code.
+I'm a machine that converts several cups of tea and coffee into lines of code.
 
-Computer science and software engineering is something I have been passionate about for as long as I can remember. I thoroughly enjoy developing software as a means to express ingenuity and acquire new skill sets and techniques. 
+Computer science and software engineering is something I have been passionate about for as long as I can remember. I thoroughly take great pleasure in developing software as a means to express ingenuity and acquire new skill sets and techniques. 
 
-I wholeheartedly enjoy sharing sharing my knowledge and love for technology with others and empowering them to take charge of the future. 
+Also, I wholeheartedly enjoy sharing my knowledge and love for technology with others and empowering them to take charge of the future. 
 
 <!-- Actual text -->
 
@@ -23,7 +23,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/almira-h-609ba71a5/
 
 ## ✍ Blog & Writing
-Aside from coding, I write blogs pertaining to STEM and Tech news topics.
+Aside from coding, I write blogs pertaining to STEM topics and Tech news.
 
 ## 🔧 Technologies & Tools
 
