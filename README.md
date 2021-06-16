@@ -23,7 +23,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/almira-h-609ba71a5/
 
 ## ✍ Blog & Writing
-Aside from coding, I write blogs pertaining to STEM topics and Tech news.
+Aside from coding, I write blog articles pertaining to STEM topics and Tech news. You can read them here: https://theartofcoding.org 
 
 ## 🔧 Technologies & Tools
 
