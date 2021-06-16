@@ -2,7 +2,7 @@
 
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 
-Professional Web developer and designer.
+Im a professional front-end developer and [STEM blogger](https://theartofcoding.org/).
 
 Computer technology is something I have been passionate about for as long as I can remember. I thoroughly enjoy developing software as a means to express ingenuity and acquire new skill sets and techniques. 
 
@@ -23,7 +23,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/almira-h-609ba71a5/
 
 ## ✍ Blog & Writing
-Aside from coding, I write blogs pertaining to [STEM](https://theartofcoding.org/) topics.
+Aside from coding, I write blogs pertaining to STEM and Tech news topics.
 
 ## 🔧 Technologies & Tools
 
