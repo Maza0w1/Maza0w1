@@ -2,9 +2,9 @@
 
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 
-My name is Almira and I’m a web developer and [STEM blogger](https://theartofcoding.org/).
+Professional Web developer and designer.
 
-Computer technology is something I have been passionate about for as long as I can remember. I thoroughly relish developing software as a means to express ingenuity and acquire new skill sets and techniques. Within the past few years, I learned several programming languages (JavaScript, HTML5, CSS3, Python, SQL, and some Java) mainly for web, app, and machine learning developments.
+Computer technology is something I have been passionate about for as long as I can remember. I thoroughly enjoy developing software as a means to express ingenuity and acquire new skill sets and techniques. 
 
 I wholeheartedly enjoy sharing sharing my knowledge and love for technology with others and empowering them to take charge of the future. 
 
@@ -23,6 +23,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/almira-h-609ba71a5/
 
 ## ✍ Blog & Writing
+Aside from coding, I write blogs pertaining to [STEM](https://theartofcoding.org/) topics.
 
 ## 🔧 Technologies & Tools
 
