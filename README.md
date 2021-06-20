@@ -1,8 +1,8 @@
-# 13370w1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Maza0w1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 
-I'm a machine that converts several cups of tea and coffee into lines of code.
+Human machine that converts several cups of tea and coffee into lines of code.
 
 Computer science and software engineering is something I have been passionate about for as long as I can remember. I thoroughly take great pleasure in developing software as a means to express ingenuity and acquire new skill sets and techniques. 
 
