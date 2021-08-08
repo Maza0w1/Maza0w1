@@ -4,7 +4,7 @@
 
 Human machine that converts several cups of tea and coffee into lines of code.
 
-Computer science and software engineering is something I have been passionate about for as long as I can remember. I thoroughly take great pleasure in developing software as a means to express ingenuity and acquire new skill sets and techniques. 
+Computer science and software engineering is something I have been passionate about for as long as I can remember. I like developing software as a means to express ingenuity and acquire new skill sets and techniques. 
 
 Also, I wholeheartedly enjoy sharing my knowledge and love for technology with others and empowering them to take charge of the future. 
 
