@@ -4,7 +4,7 @@
 
 Human machine that converts cups of coffee into lines of code.
 
-I'm a computer science student fascinated with A.I and computional bioscience.
+I'm a computer science student fascinated with A.I and computional bioscience studies. 
 
 ## 🔧 Technologies & Tools
 
