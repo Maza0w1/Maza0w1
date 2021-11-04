@@ -1,14 +1,9 @@
-# Maza0w1 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello,world! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![Alt text](https://media3.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif)
 
-Human machine that converts cups of coffee into lines of code.
+I'm a computer science student and front-end developer/UI designer. I'm fascinated with AI and computional bioscience studies. 
 
-I'm a computer science student fascinated with A.I and computional bioscience studies. 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 🔧 Technologies & Tools
